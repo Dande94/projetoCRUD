@@ -1,7 +1,7 @@
 <?php
 
-$local="127.0.0.1:3307"; //dependendo da onde estiver codando reajustar o local;
-$usuario="root";
+$local=""; //dependendo da onde estiver codando reajustar o local;
+$usuario="";
 $senha=""; //dependendo da onde estiver codando reajustar a senha;
 $banco="cursos";
 
